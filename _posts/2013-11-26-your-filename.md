@@ -1,5 +1,7 @@
 ---
+layout: post
 published: true
+length: 77km
 ---
 
 ## A New Post
