@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  Schaffhausen - Gächlingen
-date:   2013-11-25 13:37:33
-categories: tour bike 
+title: "Schaffhausen - Gächlingen"
+date: {}
+categories: tour bike
 tour: 3
+published: true
+length: "44"
 ---
 
 ## A New Post
