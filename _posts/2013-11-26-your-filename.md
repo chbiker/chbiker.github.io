@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Schaffhausen - Gächlingen"
-date: {}
+date:   2013-11-26 13:37:33
 categories: tour bike
 tour: 3
 published: true
