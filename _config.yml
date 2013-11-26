@@ -2,7 +2,7 @@ name: biketouren
 markdown: redcarpet
 pygments: false
 exclude: 
-- run.cmd
+- run.sh
 - .gitignore
 
 prose:
@@ -12,7 +12,7 @@ prose:
     _posts:
       - name: "layout"
         field:
-          element: "hidden"
+          element: "text"
           value: "post"
       - name: "tags"
         field:
@@ -20,11 +20,24 @@ prose:
           label: "Add Tags"
           placeholder: "Choose Tags"
           options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
+            - name: "Touren"
+              value: "tour"
+            - name: "Tips"
+              value: "tips"
       - name: "length"
         field:
           label: "Länge"
           element: "text"
+      - name: "up"
+        field:
+          label: "Up"
+          element: "text"
+      - name: "down"
+        field:
+          label: "Down"
+          element: "text"
+      - name: "tour"
+        field:
+          label: "Tour"
+          element: "text"
+
