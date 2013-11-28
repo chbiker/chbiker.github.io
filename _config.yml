@@ -35,16 +35,22 @@ prose:
         field:
           label: "Tour"
           element: "number"
+          type: "number"
       - name: "length"
         field:
           label: "Länge"
           element: "number"
+          type: "number"
+          help: "Tourenlänge in km"
       - name: "up"
         field:
           label: "Up"
           element: "number"
+          type: "number"
+          help: "Höhenmeter rauf"
       - name: "down"
         field:
           label: "Down"
           element: "number"
-
+          type: "number"
+          help: "Höhenmeter runter"
