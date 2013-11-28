@@ -5,6 +5,7 @@ tour: "3"
 length: "300"
 up: "400"
 down: "500"
+date: "2013-11-28"
 ---
 
 ## A New Post
