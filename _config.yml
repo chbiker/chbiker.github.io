@@ -27,17 +27,17 @@ prose:
       - name: "length"
         field:
           label: "Länge"
-          element: "text"
+          element: "number"
       - name: "up"
         field:
           label: "Up"
-          element: "text"
+          element: "number"
       - name: "down"
         field:
           label: "Down"
-          element: "text"
+          element: "number"
       - name: "tour"
         field:
           label: "Tour"
-          element: "text"
+          element: "number"
 
