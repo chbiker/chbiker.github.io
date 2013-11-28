@@ -15,6 +15,12 @@ prose:
           label: "Layout"
           element: "text"
           value: "post"
+      - name: "date"
+        field:
+          label: "Date"
+          element: "text"
+          value: "YYYY-MM-DD HH:MM:SS"
+          help: "Post date as YYYY-MM-DD HH:MM:SS"
       - name: "tags"
         field:
           element: "multiselect"
