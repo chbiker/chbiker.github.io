@@ -31,6 +31,10 @@ prose:
               value: "tour"
             - name: "Tips"
               value: "tips"
+      - name: "tour"
+        field:
+          label: "Tour"
+          element: "number"
       - name: "length"
         field:
           label: "Länge"
@@ -42,9 +46,5 @@ prose:
       - name: "down"
         field:
           label: "Down"
-          element: "number"
-      - name: "tour"
-        field:
-          label: "Tour"
           element: "number"
 
