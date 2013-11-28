@@ -5,15 +5,15 @@ date: "2013-11-22"
 categories: tour bike
 tour: 2
 length: 
-  - "35"
-  - 35
+  - "46"
+  - 46
 published: true
 up: 
-  - "50"
-  - 50
+  - "47"
+  - 47
 down: 
-  - "20"
-  - 20
+  - "48"
+  - 48
 ---
 
 Li **Europan** lingues es _membres_ del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular.
