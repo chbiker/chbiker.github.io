@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Büsingen - Gennersbrunn"
-date:   2013-11-23 13:37:33
-categories: tour bike 
-length: 8.56 km
-up: 111.7 m
-down: 115 m
-tour: 1
+title: "Büsingen - Gennersbrunn"
+date: "2013-11-20"
+categories: tour bike
+length: "56"
+up: "100"
+down: "200"
+tour: "2"
+published: true
 ---
 
 Buchthalen - Büsingen - Gennersbrunn - Buchthalen 
