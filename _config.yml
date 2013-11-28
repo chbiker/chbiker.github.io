@@ -19,7 +19,7 @@ prose:
         field:
           label: "Date"
           element: "text"
-          value: "YYYY-MM-DD HH:MM:SS"
+          value: CURRENT_DATETIME
           help: "Post date as YYYY-MM-DD HH:MM:SS"
       - name: "tags"
         field:
