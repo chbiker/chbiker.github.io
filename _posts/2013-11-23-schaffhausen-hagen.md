@@ -4,10 +4,10 @@ layout: post
 title: "Schaffhausen - Hagen"
 date: "2013-11-22"
 categories: tour bike
-tour: "1"
-length: "2"
-up: "3"
-down: "4"
+tour: "2"
+length: "200"
+up: "300"
+down: "400"
 ---
 
 Li **Europan** lingues es _membres_ del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular.
