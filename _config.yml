@@ -19,7 +19,6 @@ prose:
         field:
           label: "Date"
           element: "text"
-          value: CURRENT_DATETIME
           help: "Post date as YYYY-MM-DD HH:MM:SS"
       - name: "tags"
         field:
@@ -34,19 +33,16 @@ prose:
       - name: "tour"
         field:
           label: "Tour"
-          element: "number"
           type: "number"
       - name: "length"
         field:
           label: "Länge"
-          element: "number"
           type: "number"
           help: "Tourenlänge in km"
       - name: "up"
         field:
           label: "Up"
           element: "number"
-          type: "number"
           help: "Höhenmeter rauf"
       - name: "down"
         field:
