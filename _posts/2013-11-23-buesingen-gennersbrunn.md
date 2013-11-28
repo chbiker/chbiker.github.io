@@ -3,9 +3,9 @@ layout: post
 title: "Büsingen - Gennersbrunn"
 date: "2013-11-20"
 categories: tour bike
-length: "56"
-up: "100"
-down: "200"
+length: "100"
+up: "200"
+down: "300"
 tour: "1"
 published: true
 ---
