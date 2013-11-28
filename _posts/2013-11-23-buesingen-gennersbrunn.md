@@ -6,7 +6,7 @@ categories: tour bike
 length: "56"
 up: "100"
 down: "200"
-tour: "2"
+tour: "1"
 published: true
 ---
 
