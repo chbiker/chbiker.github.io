@@ -1,22 +1,11 @@
 ---
 layout: post
-<<<<<<< HEAD
 title:  "Büsingen - Gennersbrunn"
 categories: tour bike 
 length: 8.56
 up: 111.7
 down: 115
 tour: 1
-=======
-title: "Büsingen - Gennersbrunn"
-date: "2013-11-20"
-categories: tour bike
-length: "100"
-up: "200"
-down: "300"
-tour: "1"
-published: true
->>>>>>> 4c7eb703d6ac766dfab49ba40ccb39d98493c8d8
 ---
 
 ## Route

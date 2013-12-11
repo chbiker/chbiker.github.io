@@ -1,22 +1,12 @@
 ---
 published: true
 layout: post
-<<<<<<< HEAD
 title:  Schaffhausen - Hagen
 categories: tour bike 
 length: 28.6
 up: 100
 down: 200
 tour: 2
-=======
-title: "Schaffhausen - Hagen"
-date: "2013-11-22"
-categories: tour bike
-tour: "2"
-length: "200"
-up: "300"
-down: "400"
->>>>>>> 4c7eb703d6ac766dfab49ba40ccb39d98493c8d8
 ---
 
 ## Route

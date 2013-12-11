@@ -30,14 +30,12 @@ a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
 
-<<<<<<< HEAD
 h1 {
   font-size: 120%;
-=======
+
 img {
   max-width: 100%;
   height: auto;
->>>>>>> 4c7eb703d6ac766dfab49ba40ccb39d98493c8d8
 }
 
 /*****************************************************************************/
