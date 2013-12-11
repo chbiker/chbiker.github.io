@@ -20,7 +20,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+  font-size: 100%;
+}
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
@@ -29,9 +30,14 @@ a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
 
+<<<<<<< HEAD
+h1 {
+  font-size: 120%;
+=======
 img {
   max-width: 100%;
   height: auto;
+>>>>>>> 4c7eb703d6ac766dfab49ba40ccb39d98493c8d8
 }
 
 /*****************************************************************************/

@@ -1,0 +1,30 @@
+---
+layout: default
+title: Search
+---
+
+<script type="text/javascript">
+   // Using liquid to populate JeykllApp.posts array
+   app.posts = {% include search_data.json %}
+</script>
+
+<h1>Search</h1>
+
+<div ng-app="JekyllApp" ng-controller="JekyllSearchController">
+
+  <div>
+    <p><input type="search" placeholder="Live Search Posts..." ng-model="searchText" />
+  </div>
+
+  <div ng-show="searchText.length">
+    <ul>
+      <li ng-repeat="post in posts | filter:searchText">
+        <span ng-bind-html-unsafe="post.date | date:'MMM d, y' | highlight:searchText"></span> &raquo;
+        <a ng-href="{{ '{{ post.url ' }}}}" ng-bind-html-unsafe="post.title | highlight:searchText"></a>
+        (Length: <span ng-bind-html-unsafe="post.length | number:1 | highlight:searchText"></span>km)
+        <div ng-bind-html-unsafe="post.content | highlight:searchText"></div>
+      </li>
+    </ul>
+  </div>
+
+</div>

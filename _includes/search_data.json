@@ -1,0 +1,8 @@
+[{% for post in site.posts %}
+{ "title" : "{{ post.title }}",
+  "url" : "{{ post.url }}",
+  "date" : "{{ post.date | date_to_string }}",
+  "length" : "{{ post.length }}",
+  "content" : "{{ post.content | strip_html | newline_to_br | strip_newlines | replace:'<br />',' ' | truncate : 200 }}"}{% if forloop.rindex0 != 0 %},{% endif %}{% endfor %}
+];
+
