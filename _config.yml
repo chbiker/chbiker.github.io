@@ -1,9 +1,57 @@
 name: biketouren
 markdown: redcarpet
 pygments: false
-exclude: 
+exclude:
 - run.sh
 - .gitignore
+
+title:            CH-Bikers
+description:      Some Bike Tours in Switzerland.
+logo:             site-logo.png
+disqus_shortname: shortname
+search:           true
+#Comment out url when working locally to resolve base urls correctly
+#url:              http://whatever.com
+
+# Owner/author information
+owner:
+  name:           CH-Bikers
+  avatar:         your-photo.jpg
+  email:          your@email.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: chbikers
+  facebook: chbikers
+  github:
+  linkedin: chbikers
+  instagram: chbikers
+  tumblr: chbikers
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus: chbikers
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: MySearch
+    url: /search.html
+  - title: About
+    url: /about
+  - title: Google
+    url: http://google.com
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Zurich
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
 
 prose:
   rooturl: '_posts'
