@@ -19,14 +19,14 @@ owner:
   avatar:         your-photo.jpg
   email:          your@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: chbikers
-  facebook: chbikers
+  twitter:
+  facebook:
   github:
-  linkedin: chbikers
-  instagram: chbikers
-  tumblr: chbikers
+  linkedin:
+  instagram:
+  tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus: chbikers
+  google_plus:
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
@@ -43,9 +43,6 @@ links:
     url: /search.html
   - title: About
     url: /about
-  - title: Google
-    url: http://google.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Zurich
