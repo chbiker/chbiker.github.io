@@ -11,7 +11,8 @@ logo:             site-logo.png
 disqus_shortname: shortname
 search:           true
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://whatever.com
+url:              http://chbiker.github.io
+#url:              http://localhost:4000
 
 # Owner/author information
 owner:
